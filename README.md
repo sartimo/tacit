@@ -19,6 +19,7 @@
 - Test Networks: all features available, also newly developed ones. Usually used to eliminate bugs and instabilities
 - Development Networks
 - System Landscape: DEV, QA, PROD
+- **Download SAP Frontend 7.41 from here**: https://www.youtube.com/watch?v=Qz6OO2oBcEM&ab_channel=KumarConsulting_4 | https://drive.google.com/uc?id=1arfNjkSeacNvuw-BhK3DdBgXHCTBUNEw&export=download
 
 ## Basic Transactions:
 
