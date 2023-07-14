@@ -13,6 +13,10 @@
 - FactSheet Apps for displaying several statistics
 - Web Access to all essential transactions from SAP ABAP Netweaver
 
+## Setup S4 HANA
+
+http://blog.ui5cn.com/s4-hana-1909-on-premise-using-docker/
+
 ## SAP ABAP Netweaver Ideas:
 
 - Productive Networks: layout for production use.
