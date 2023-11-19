@@ -8,3 +8,7 @@ https://strlen.com/false-language/
 https://www.nsl.com/k/xy/
 
 https://www.nsl.com/k/xy/xy.xy
+
+https://rosettacode.org/wiki/Category:FALSE
+
+https://github.com/kevinlawler/kona/
